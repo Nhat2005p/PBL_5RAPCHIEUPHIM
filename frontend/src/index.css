@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Thêm dòng này để ép nền tối chuẩn cinematic */
+body {
+  margin: 0;
+  background-color: #0A0A0F;
+  color: white;
+}
